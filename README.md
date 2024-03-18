@@ -21,7 +21,7 @@
     <tr>
       <td align="center"><img src="img/전승열.jpg" width="100px;" alt=""/><br /><sub><b>팀장 : 전승열</b></sub></a><br /></td>
       <td align="center"><img src="img/민준.jpg" width="100px;" alt=""/><br /><sub><b>BE 리더 : 최민준</b></sub></a><br /></td>
-      <td align="center"><img src="img/최승준 (1).jpg" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 최승준</b></sub></a><br /></td>
+      <td align="center"><img src="img/최승준.jpg" width="100px;" alt=""/><br /><sub><b>BE 팀원 : 최승준</b></sub></a><br /></td>
      <tr/>
       <td align="center"><img src="img/정지원.jpg" width="100px;" alt=""/><br /><sub><b>FE 리더 : 정지원</b></sub></a><br /></td>
       <td align="center"><img src="img/박은수.jpg" width="100px;" alt=""/><br /><sub><b>부팀장 : 박은수</b></sub></a><br /></td>
